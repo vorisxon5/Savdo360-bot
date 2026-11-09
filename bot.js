@@ -1,6 +1,6 @@
 const { Telegraf, Markup } = require('telegraf');
 
-const bot = new Telegraf('9009394556:AAE_gUN0abt54zTwYe7gVjr1JuNR41kJoM');
+const bot = new Telegraf('9009394556:AAE_GUN0ubl54zTWyc7gLvjr1jUNR41kjOM');
 
 bot.start((ctx) => {
     ctx.reply(
